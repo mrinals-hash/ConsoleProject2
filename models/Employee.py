@@ -6,4 +6,4 @@ class Employee:
         print(f'The name is:',self.name)
 
     def count(self):
-        return 45     
+        return 45
